@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+h1 {
+    text-align: center;
+}
+.logo {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.functionality {
+    text-align: center;
+    margin-bottom: 20px;
+    width: 100%;
+}
+.functionality ul {
+   display: inline-block;
+}
+.functionality li {
+    text-align: left;
+}
+.telegram {
+    text-align: center;
+    margin-top: 150px
+}
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
